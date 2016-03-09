@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spiiner</string>
+    <string-array name="citynames">
+        <item>Hyderabad</item>
+        <item>Secunderabad</item>
+        <item>Chennai</item>
+        <item>Banglore</item>
+        <item>Delhi</item>
+    </string-array>
+</resources>
